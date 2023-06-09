@@ -25,8 +25,6 @@
 
 ## Video Link 🚀
 
-[Video here](https://www.loom.com/share/1780ee4d994249baa6f6598a4c081961)
-
 ## Render Deploy 🚀
 
 [Live demo here](https://budgetapp-1zk7.onrender.com/)
