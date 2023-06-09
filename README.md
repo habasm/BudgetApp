@@ -24,7 +24,7 @@
 **Budget App** is a Ruby on Rails capstone project which you can create new categories, you can write new transactions and deploy it the categories and finally you can control how much money you spend each category.
 
 ## Video Link 🚀
-
+[Live video here](https://www.loom.com/share/a39091f360ab4ad78790038538039b20)
 ## Render Deploy 🚀
 
 [Live demo here](https://budgetapp-1zk7.onrender.com/)
