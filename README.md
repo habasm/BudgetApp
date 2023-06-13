@@ -62,7 +62,7 @@ Clone this Repository to your desired folder:
 
 ```sh
 cd my-folder
-git clone https://github.com/otmanTR/BudgetApp.git
+git clone https://github.com/habasm/BudgetApp.git
 ```
 
 ### Install
